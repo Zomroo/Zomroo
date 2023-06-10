@@ -1,4 +1,7 @@
-![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/xkV5VUPtVIRq12Tkau/giphy.gif" alt="Banner" />
+</p>
+
 <h1 align="center">👋 Hi, I'm Roro </h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Mai+Chutiya+Hu+%3A)" /> </h3>
 
@@ -10,8 +13,10 @@ Hello friends ✋, welcome to my GitHub Page. I am Roro and now  Self-taught Sas
 
 # My Social Profiles
 <p align="center">
-<a href="https://www.instagram.com/juck/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Roro.k-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/juck/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Roro-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/elonmusk" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Roro-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://t.me/SpeckledMonster" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Roro-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
 
 <h3 align="left">Web Tech Stack :</h3>
 <div align="left">
@@ -59,12 +64,11 @@ Hello friends ✋, welcome to my GitHub Page. I am Roro and now  Self-taught Sas
  
  <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Roro&show_icons=true&theme=dark&locale=en" alt="Roro Github Stats" /></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Roro&theme=dark" alt="Roro status" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Zomroo&show_icons=true&theme=dark&locale=en" alt="Zomroo Github Stats" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zomroo&theme=dark" alt="Zomroo status" /></td>
   </tr>
 </table>
 
 <div align="center">
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Roro&show_icons=true&theme=dark&locale=en&layout=compact" alt="Roro Github Stats" /></p>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zomroo&show_icons=true&theme=dark&locale=en&layout=compact" alt="shabin Github Stats" /></p>
  </div>
- 
