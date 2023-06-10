@@ -18,10 +18,6 @@ Hello friends ✋, welcome to my GitHub Page. I am Roro and now  Self-taught Sas
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img alt="Pyrogram" src="https://img.shields.io/badge/Pyrogram-%232CA5E0.svg?style=for-the-badge&logo=python&logoColor=white"/>
-</div> 
 
 
 <h3 align="left">Languages :</h3>
@@ -31,22 +27,17 @@ Hello friends ✋, welcome to my GitHub Page. I am Roro and now  Self-taught Sas
   <img alt="c" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 </div>
+ <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img alt="Pyrogram" src="https://img.shields.io/badge/Pyrogram-%232CA5E0.svg?style=for-the-badge&logo=python&logoColor=white"/>
+</div> 
 
-<h3 align="left">Tools</h3>
-<div align="left">
- <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
- <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" width="48" height="48" alt="GitLab" />
- <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
- <img alt="postman" src="https://img.shields.io/badge/Postman-%23ED8B00.svg?style=for-the-badge&logo=Postman&logoColor=white"/>
- <img alt="Hopscotch" src="https://img.shields.io/badge/Hopscotch-4EA94B?style=for-the-badge&logo=Hopscotch&logoColor=white"/>
-</div>
 
 <h3 align="left">Databases :</h3>
 <div align="left">
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-</div>
+
 
 <h3 align="left">Version Controller</h3>
 <div align="left">
@@ -68,12 +59,12 @@ Hello friends ✋, welcome to my GitHub Page. I am Roro and now  Self-taught Sas
  
  <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=SHABIN-K&show_icons=true&theme=dark&locale=en" alt="shabin Github Stats" /></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SHABIN-K&theme=dark" alt="Shabin k status" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=SHABIN-K&show_icons=true&theme=dark&locale=en" alt="Roro Github Stats" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SHABIN-K&theme=dark" alt="Roro status" /></td>
   </tr>
 </table>
 
 <div align="center">
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SHABIN-K&show_icons=true&theme=dark&locale=en&layout=compact" alt="shabin Github Stats" /></p>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Roro&show_icons=true&theme=dark&locale=en&layout=compact" alt="Roro Github Stats" /></p>
  </div>
  
