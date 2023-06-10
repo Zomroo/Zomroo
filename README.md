@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I'm Roro </h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Mai+Chutiya+Hu+%3A)" /> </h3>
 
-![](https://komarev.com/ghpvc/?username=Zomroo&color=blueviolet&style=flat)
+![](https://visitcount.itsvg.in/api?id=zomroo&icon=0&color=0)
 <p align="justify"> 
 Hello friends ✋, welcome to my GitHub Page. I am Roro and now  Self-taught Sasta Dev, I learn new things about programming and teach these things to others, I have been programming for almost more than 1 years and worked with many languages and technologies
  
