@@ -59,8 +59,8 @@ Hello friends ✋, welcome to my GitHub Page. I am Roro and now  Self-taught Sas
  
  <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=SHABIN-K&show_icons=true&theme=dark&locale=en" alt="Roro Github Stats" /></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SHABIN-K&theme=dark" alt="Roro status" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Roro&show_icons=true&theme=dark&locale=en" alt="Roro Github Stats" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Roro&theme=dark" alt="Roro status" /></td>
   </tr>
 </table>
 
